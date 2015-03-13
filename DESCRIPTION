@@ -1,0 +1,8 @@
+Package: cpal
+Title: List of Colour Palettes
+Version: 0.0.0.9000
+Authors@R: person("Jonas", "Schoeley", , "j.schoeley@gmail.com", role = c("aut", "cre"))
+Description: This package speciefies a variety of colour palettes in hex-values.
+Depends: R (>= 3.1.1)
+License: GPL-2
+LazyData: true
