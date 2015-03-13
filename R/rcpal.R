@@ -3,8 +3,8 @@
 #' This list speciefies a variety of colour palettes in hex-values.
 #'
 #' Palette name: \code{<seq|qua|div><3_letter_palette_name>}
-"cpal"
-cpal <- list(
+"rcpal"
+rcpal <- list(
   # Sequential Colour Scale: Tobacco
   seqtob = c("#000000", "#300828",
              "#631237", "#8d2531",
@@ -19,6 +19,7 @@ cpal <- list(
              "#4EC93B", # green
              "#881F93", # purple
              "#C5752B"), # orange
+  # Qualitative Colour Scale: Goo
   quagoo = c("#EC5549", # red
              "#797EF8", # blue
              "#DCD22D", # yellow
@@ -28,4 +29,4 @@ cpal <- list(
              "#E99F3B") # orange
 )
 
-# save(cpal, file = "./data/cpal.rdata")
+# save(rcpal, file = "./data/rcpal.rdata")

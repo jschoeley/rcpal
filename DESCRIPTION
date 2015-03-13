@@ -1,4 +1,4 @@
-Package: cpal
+Package: rcpal
 Title: List of Colour Palettes
 Version: 0.0.0.9000
 Authors@R: person("Jonas", "Schoeley", , "j.schoeley@gmail.com", role = c("aut", "cre"))
